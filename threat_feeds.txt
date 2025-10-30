@@ -19,4 +19,3 @@ https://www.dshield.org/block.txt
 https://www.spamhaus.org/drop/drop.txt
 https://www.spamhaus.org/drop/edrop.txt
 https://www.talosintelligence.com/documents/ip-blacklist
-https://soc.git-pages.uark.edu/minemeld_blocklist/blocklist.txt
